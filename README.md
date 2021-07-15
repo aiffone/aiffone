@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aiffone
 - 👀 I’m interested in cloud engineering
 - 🌱 I’m currently learning GCP, Azure, AWS, and Terraform
+- 🌱 I also use Codebuild and Codepipelines as devops tools to deliver projects.
 - 💞️ I’m looking to collaborate on cloud projects
 - 📫 How to reach me https://www.linkedin.com/in/kayode-akano-a387411a/
 
